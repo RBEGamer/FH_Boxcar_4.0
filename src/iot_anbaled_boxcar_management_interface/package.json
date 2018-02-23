@@ -1,0 +1,25 @@
+{
+  "name": "boxcar_4.0_webapp",
+  "version": "1.0.0",
+  "description": "The boxcar 4.0 managemtn webapp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBEGamer/FH_Boxcar_4.0.git"
+  },
+  "author": "Marcel Ochsendorf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RBEGamer/FH_Boxcar_4.0/issues"
+  },
+  "homepage": "https://github.com/RBEGamer/FH_Boxcar_4.0#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mqtt": "^2.15.3"
+  }
+}
